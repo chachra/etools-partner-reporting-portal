@@ -21,7 +21,7 @@ At the location level, IMO can set the admin level and specific location pertain
 
 ![](../../.gitbook/assets/screen-shot-2018-03-13-at-2.34.28-pm%20%281%29.png)
 
-For Percentage Indicator, we have added 2 labels for numerator and denominator. We won’t have In-need. We’re only going to take one number for each label. The calculation method will be greyed out.
+For Percentage Indicator, we have added 2 labels for numerator and denominator. We won’t have In-need. We’re only going to take one number for data point. The calculation method will be greyed out.
 
 ![](../../.gitbook/assets/01_-add-indicator_percent2x.png)
 
