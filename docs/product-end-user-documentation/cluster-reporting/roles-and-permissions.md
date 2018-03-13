@@ -15,7 +15,7 @@ What role they have on PRP or which partner they belong to is all managed in the
 
 ![](../../.gitbook/assets/change_user___prp%20%281%29.png)
 
-**TBD**: user authentication impacts all of PRP, move to another section?
+
 
 
 
