@@ -24,6 +24,7 @@
 * Cluster Reporting
   * [Overview](product-end-user-documentation/cluster-reporting/overview.md)
   * [User Authentication, Roles and permissions](product-end-user-documentation/cluster-reporting/roles-and-permissions.md)
+  * [AD Integration](product-end-user-documentation/cluster-reporting/ad-integration.md)
   * [Response Plans](product-end-user-documentation/cluster-reporting/untitled.md)
   * [Cluster Indicators](product-end-user-documentation/cluster-reporting/cluster-indicators.md)
   * [Response Plan Dashboard](product-end-user-documentation/cluster-reporting/dashboard.md)
@@ -43,5 +44,4 @@
 * [API Documentation](technical-documentation/api-documentation/README.md)
   * [Error Handling](technical-documentation/api-documentation/error-handling.md)
 * [CartoDB location sync](technical-documentation/cartodb-location-sync.md)
-* [AD Integration](technical-documentation/ad-integration.md)
 
