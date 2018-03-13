@@ -23,6 +23,10 @@ Indicator type options will be: Partner Activity, Partner Project, Cluster Objec
 
 For each indicator report the partner can enter progress data for each location in which this indicator is being tracked. Additionally they can give an "overall status" and narrative assessment as well.
 
+We will have a data key to specify the labels of the indicators.
+
+![Ratio Indicator ](../../.gitbook/assets/reporting_012x.png)
+
 ### Submitting an indicator report
 
 Once all the data for all locations has been entered the indicator report can be submitted. Once submitted the indicator report goes under "Submitted Reports" tab, and can be reviewed by the IMO. Once submitted, none of the report data can be modified by anyone. The IMO may send back the report if they would like to see changes or incorrect data was entered, in which case the partner can re-submit after making the appropriate changes.
